@@ -23,6 +23,7 @@
      width: 40%;
      display: flex;
      justify-content: space-between;
+     margin-top: 15vw;
       /* border: 1px solid rgb(0, 255, 55); */
     }
     .foot12a{

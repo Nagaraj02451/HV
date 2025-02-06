@@ -23,7 +23,7 @@
      width: 40%;
      display: flex;
      justify-content: space-between;
-     margin-top: 15vw;
+     /* margin-top: 15vw; */
       /* border: 1px solid rgb(0, 255, 55); */
     }
     .foot12a{
@@ -62,6 +62,7 @@
          .foot12{
           width: 80%;
           display:grid;
+          margin-top: 12vw;
           grid-template-columns: auto auto;
           row-gap: 30%;
           

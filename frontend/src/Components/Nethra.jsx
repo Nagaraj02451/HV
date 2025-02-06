@@ -67,19 +67,19 @@ const Nethra = () => {
                   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img id='jhgfuyt' src='Img/new20.webp'  alt="..." />
+      <img id='jhgfuyt' src='Img/Nethra4.webp'  alt="..." />
     </div>
     <div class="carousel-item">
-      <img id='jhgfuyt' src='Img/new21.webp' alt="..." />
+      <img id='jhgfuyt' src='Img/Nethra5.webp' alt="..." />
     </div>
     <div class="carousel-item">
-      <img id='jhgfuyt' src='Img/new22.webp'  alt="..." />
+      <img id='jhgfuyt' src='Img/Nethra6.webp'  alt="..." />
     </div>
     <div class="carousel-item">
-      <img id='jhgfuyt' src='Img/new23.webp'  alt="..." />
+      <img id='jhgfuyt' src='Img/Nethra7.webp'  alt="..." />
     </div>
     <div class="carousel-item">
-      <img id='jhgfuyt' src='Img/new24.webp'  alt="..." />
+      <img id='jhgfuyt' src='Img/Nethra1.webp'  alt="..." />
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -101,17 +101,17 @@ const Nethra = () => {
                   <div className='os42'>TYPES OF ROOM</div>
                   <div className='os63'>
                      <div className='os64'>
-                        <div className='os65'><img src='Img/third4.webp'></img></div>
+                        <div className='os65'><img src='Img/Nethra1.webp'></img></div>
                         <div className='os66'>TYPE 1</div>
                         <div className='os67'>Coorg | 2 Rooms | ₹1500-2300</div>
                      </div>
                      <div className='os64'>
-                        <div className='os65'><img src='Img/third44.webp'></img></div>
+                        <div className='os65'><img src='Img/Nethra2.webp'></img></div>
                         <div className='os66'>TYPE 2</div>
                         <div className='os67'>Coorg | 3 Rooms | ₹1500-2300</div>
                      </div>
                      <div className='os64'>
-                        <div className='os65'><img src='Img/third444.webp'></img></div>
+                        <div className='os65'><img src='Img/Nethra3.webp'></img></div>
                         <div className='os66'>TYPE 3</div>
                         <div className='os67'>Coorg | 3 Rooms | ₹1500-2300</div>
                      </div>
